@@ -5,3 +5,6 @@ I am Alan from the Northeast of England. My interests are frontend development f
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sashka1502)](https://github.com/anuraghazra/github-readme-stats)
+
+
+** Skills
